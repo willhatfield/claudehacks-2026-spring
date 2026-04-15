@@ -150,4 +150,4 @@ If the backend is unreachable, the app falls back to a locally generated quest s
 | Side Character | 100 | Top 40% |
 | Main Character | 500 | Top 15% |
 | Sigma | 2,000 | Top 5% |
-| Final Boss | 10,000 | Top 1% |
+| Tung Tung Tung Sahur | 10,000 | Top 1% |
